@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.24327ab4.css",
+    "main.js": "./static/js/main.18fe38d2.js",
+    "static/js/714.9d80a8c4.chunk.js": "./static/js/714.9d80a8c4.chunk.js",
+    "static/js/91.d5c0ba7b.chunk.js": "./static/js/91.d5c0ba7b.chunk.js",
+    "static/js/139.dc8e2c80.chunk.js": "./static/js/139.dc8e2c80.chunk.js",
+    "static/js/547.59a21030.chunk.js": "./static/js/547.59a21030.chunk.js",
+    "static/js/303.fe6caf33.chunk.js": "./static/js/303.fe6caf33.chunk.js",
+    "static/js/703.0e1fd6e6.chunk.js": "./static/js/703.0e1fd6e6.chunk.js",
+    "static/js/513.f71f287b.chunk.js": "./static/js/513.f71f287b.chunk.js",
+    "static/media/finance-management-tech-system-logo.jpg": "./static/media/finance-management-tech-system-logo.58a67d741e54dc057b98.jpg",
+    "static/media/finance-management-tech-system.png": "./static/media/finance-management-tech-system.f875b2e7b45ec2cdaafe.png",
+    "static/media/finance-management-tech-system-expenses.jpg": "./static/media/finance-management-tech-system-expenses.a6b897fdb1b9f4c0d315.jpg",
+    "static/media/finance-management-tech-system-entries.jpg": "./static/media/finance-management-tech-system-entries.67678af913d0f0140430.jpg",
+    "static/media/finance-management-tech-system-accounts.jpg": "./static/media/finance-management-tech-system-accounts.cec814fdc8f2206af967.jpg",
+    "static/media/finance-management-tech-system-application.jpg": "./static/media/finance-management-tech-system-application.50e817af743d2bbdca8d.jpg",
+    "static/media/finance-management-tech-system-client.jpg": "./static/media/finance-management-tech-system-client.25118caaa8eac0e2d560.jpg",
+    "static/media/finance-management-tech-system-group.jpg": "./static/media/finance-management-tech-system-group.bd83f1009deaa5b79545.jpg",
+    "static/media/finance-management-tech-system-staff.jpg": "./static/media/finance-management-tech-system-staff.f248f14c0072a6b71510.jpg",
+    "static/media/finance-management-tech-system-branch.jpg": "./static/media/finance-management-tech-system-branch.e7f1acd0983c6da8ba71.jpg",
+    "index.html": "./index.html",
+    "main.24327ab4.css.map": "./static/css/main.24327ab4.css.map",
+    "main.18fe38d2.js.map": "./static/js/main.18fe38d2.js.map",
+    "714.9d80a8c4.chunk.js.map": "./static/js/714.9d80a8c4.chunk.js.map",
+    "91.d5c0ba7b.chunk.js.map": "./static/js/91.d5c0ba7b.chunk.js.map",
+    "139.dc8e2c80.chunk.js.map": "./static/js/139.dc8e2c80.chunk.js.map",
+    "547.59a21030.chunk.js.map": "./static/js/547.59a21030.chunk.js.map",
+    "303.fe6caf33.chunk.js.map": "./static/js/303.fe6caf33.chunk.js.map",
+    "703.0e1fd6e6.chunk.js.map": "./static/js/703.0e1fd6e6.chunk.js.map",
+    "513.f71f287b.chunk.js.map": "./static/js/513.f71f287b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24327ab4.css",
+    "static/js/main.18fe38d2.js"
+  ]
+}

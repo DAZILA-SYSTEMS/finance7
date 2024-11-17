@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfinancetechsystem=self.webpackChunkfinancetechsystem||[]).push([[714],{2714:function(e,s,n){n.r(s);n(2791);var c=n(8920),t=n(3252),i=n(184);s.default=function(){return(0,i.jsxs)("div",{children:[(0,i.jsx)(c.Z,{}),(0,i.jsx)("div",{style:{paddingTop:"40px"},children:(0,i.jsx)(t.Z,{})})]})}}}]);
+//# sourceMappingURL=714.9d80a8c4.chunk.js.map
